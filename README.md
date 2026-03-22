@@ -1,3 +1,3 @@
-"# Лабораторна робота №1" 
-"Виконав: Алєксєєв" 
-"Використана мова: JavaScript" 
+"# bse-lr1--Alieksieiev" 
+"Student: Alieksieiev" 
+"Language: JavaScript" 
