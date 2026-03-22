@@ -1,1 +1,1 @@
-"console.log('Лабораторна робота №1: Виконав Алєксєєв');" 
+"console.log('Lab 1: Completed by Alieksieiev');" 
